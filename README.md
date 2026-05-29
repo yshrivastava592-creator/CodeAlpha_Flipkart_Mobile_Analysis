@@ -146,15 +146,6 @@ Built an interactive business intelligence dashboard with:
 - **Storage-wise Average Price** — pie chart (128GB avg ₹17,574 vs 64GB avg ₹10,701)
 - **KPI Cards** — Total Phones: 162 | Avg Price: ₹13,713
 
-### Python Matplotlib Dashboard (`dashboards/sentiment_dashboard.png`)
-
-5-chart professional dark-theme dashboard:
-- **Donut Chart** — Overall sentiment distribution (83.9% / 8.4% / 7.7%)
-- **Grouped Bar Chart** — Brand-wise Positive/Neutral/Negative counts
-- **Word Clouds** — Top keywords from Positive and Negative reviews separately
-- **Scatter Plot** — Star Rating vs VADER Sentiment Score (with mismatch annotation)
-- **Horizontal Bar Chart** — Top 13 products ranked by avg sentiment score
-
 ## Tableau Dashboard
 
 ![Tableau Dashboard](Tableau%20Dashboard.png)
@@ -211,7 +202,15 @@ analyzer = SentimentIntensityAnalyzer()
 - **Positive reviews:** camera, battery, best, price, performance, display, quality, budget, money, value
 - **Negative reviews:** camera, quality, battery, problem, performance, display, price, worst, working
 
----
+### Python Matplotlib Dashboard (`dashboards/sentiment_dashboard.png`)
+
+5-chart professional dark-theme dashboard:
+- **Donut Chart** — Overall sentiment distribution (83.9% / 8.4% / 7.7%)
+- **Grouped Bar Chart** — Brand-wise Positive/Neutral/Negative counts
+- **Word Clouds** — Top keywords from Positive and Negative reviews separately
+- **Scatter Plot** — Star Rating vs VADER Sentiment Score (with mismatch annotation)
+- **Horizontal Bar Chart** — Top 13 products ranked by avg sentiment score
+- 
 ## Sentiment Dashboard
 
 ![Sentiment Dashboard](sentiment_dashboard.png)
