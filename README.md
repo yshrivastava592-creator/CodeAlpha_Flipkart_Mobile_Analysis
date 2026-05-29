@@ -155,7 +155,13 @@ Built an interactive business intelligence dashboard with:
 - **Scatter Plot** — Star Rating vs VADER Sentiment Score (with mismatch annotation)
 - **Horizontal Bar Chart** — Top 13 products ranked by avg sentiment score
 
----
+## Tableau Dashboard
+
+![Tableau Dashboard](Tableau%20Dashboard.png)
+
+## Sentiment Dashboard
+
+![Sentiment Dashboard](sentiment_dashboard.png)
 
 ## 🧠 Task 4 — Sentiment Analysis (NLP)
 
