@@ -159,10 +159,6 @@ Built an interactive business intelligence dashboard with:
 
 ![Tableau Dashboard](Tableau%20Dashboard.png)
 
-## Sentiment Dashboard
-
-![Sentiment Dashboard](sentiment_dashboard.png)
-
 ## 🧠 Task 4 — Sentiment Analysis (NLP)
 
 **Objective:** Classify customer reviews using NLP and generate business insights.
@@ -216,6 +212,9 @@ analyzer = SentimentIntensityAnalyzer()
 - **Negative reviews:** camera, quality, battery, problem, performance, display, price, worst, working
 
 ---
+## Sentiment Dashboard
+
+![Sentiment Dashboard](sentiment_dashboard.png)
 
 ## 💡 Key Insights
 
